@@ -1,0 +1,1 @@
+# Sa-l-kta-Yapay-Zeka-B-lteni

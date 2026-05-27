@@ -1,0 +1,324 @@
+{
+  "meta": {
+    "açıklama": "Sağlık Teknolojileri Haber Bülteni - Kaynak Veritabanı",
+    "son_güncelleme": "2026-05-27",
+    "toplam_kaynak": 32,
+    "notlar": "Bu dosyayı düzenleyerek kaynak ekleyebilir veya çıkarabilirsiniz. Her kaynağın 'aktif' alanını false yaparak geçici olarak devre dışı bırakabilirsiniz."
+  },
+  "kategoriler": {
+    "akademik_ve_bilimsel": {
+      "açıklama": "Hakemli dergiler, preprint sunucuları ve akademik veritabanları",
+      "kaynaklar": [
+        {
+          "id": "AK-001",
+          "ad": "PubMed / NCBI",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "odak": "Biyomedikal ve yaşam bilimleri literatürü, klinik çalışmalar",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Sürekli",
+          "aktif": true
+        },
+        {
+          "id": "AK-002",
+          "ad": "Nature Medicine",
+          "url": "https://www.nature.com/nm/",
+          "odak": "Translasyonel tıp, klinik araştırma, biyomedikal inovasyon",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Aylık (haftalık online)",
+          "aktif": true
+        },
+        {
+          "id": "AK-003",
+          "ad": "The Lancet Digital Health",
+          "url": "https://www.thelancet.com/journals/landig/home",
+          "odak": "Dijital sağlık teknolojileri, yapay zeka, e-sağlık",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Aylık",
+          "aktif": true
+        },
+        {
+          "id": "AK-004",
+          "ad": "npj Digital Medicine (Nature)",
+          "url": "https://www.nature.com/npjdigitalmed/",
+          "odak": "Dijital tıp, giyilebilir teknolojiler, sağlık verisi analizi",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Sürekli (açık erişim)",
+          "aktif": true
+        },
+        {
+          "id": "AK-005",
+          "ad": "JAMA Network / JAMA Health Forum",
+          "url": "https://jamanetwork.com/journals/jama-health-forum",
+          "odak": "Sağlık politikası, sağlık sistemi inovasyonu, dijital dönüşüm",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Haftalık",
+          "aktif": true
+        },
+        {
+          "id": "AK-006",
+          "ad": "arXiv (cs.AI + q-bio)",
+          "url": "https://arxiv.org/list/cs.AI/recent",
+          "odak": "Yapay zeka preprint'leri, sağlık uygulamalı ML modelleri",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        }
+      ]
+    },
+    "sağlık_teknolojisi_haber": {
+      "açıklama": "Sağlık teknolojisi odaklı haber platformları ve sektör yayınları",
+      "kaynaklar": [
+        {
+          "id": "HT-001",
+          "ad": "MobiHealthNews",
+          "url": "https://www.mobihealthnews.com/",
+          "odak": "Mobil sağlık, dijital sağlık startupları, giyilebilir teknoloji",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        },
+        {
+          "id": "HT-002",
+          "ad": "FierceHealthcare",
+          "url": "https://www.fiercehealthcare.com/",
+          "odak": "Sağlık sektörü haberleri, hastane teknolojileri, sağlık IT",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        },
+        {
+          "id": "HT-003",
+          "ad": "Healthcare IT News",
+          "url": "https://www.healthcareitnews.com/",
+          "odak": "Sağlık bilişimi, EHR sistemleri, interoperabilite, siber güvenlik",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        },
+        {
+          "id": "HT-004",
+          "ad": "STAT News",
+          "url": "https://www.statnews.com/",
+          "odak": "Biyoteknoloji, ilaç geliştirme, sağlık politikası, AI in health",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        },
+        {
+          "id": "HT-005",
+          "ad": "Digital Health (UK)",
+          "url": "https://www.digitalhealth.net/",
+          "odak": "NHS dijital dönüşüm, Avrupa sağlık teknolojisi, e-sağlık",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        },
+        {
+          "id": "HT-006",
+          "ad": "Health Data Management",
+          "url": "https://www.healthdatamanagement.com/",
+          "odak": "Sağlık verisi yönetimi, analitik, büyük veri sağlık uygulamaları",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        }
+      ]
+    },
+    "teknoloji_genel_saglik_bolumu": {
+      "açıklama": "Genel teknoloji platformlarının sağlık/biyoteknoloji bölümleri",
+      "kaynaklar": [
+        {
+          "id": "TG-001",
+          "ad": "TechCrunch - Health",
+          "url": "https://techcrunch.com/category/health/",
+          "odak": "Sağlık startup fonlamaları, dijital sağlık ürün lansmanları",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        },
+        {
+          "id": "TG-002",
+          "ad": "Wired - Science/Health",
+          "url": "https://www.wired.com/tag/health/",
+          "odak": "Gelecek teknolojileri, biyohacking, nöroteknoloji, gen düzenleme",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Haftalık",
+          "aktif": true
+        },
+        {
+          "id": "TG-003",
+          "ad": "MIT Technology Review - Biomedicine",
+          "url": "https://www.technologyreview.com/topic/biotechnology/",
+          "odak": "Biyoteknoloji, CRISPR, sentetik biyoloji, AI-driven drug discovery",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Haftalık",
+          "aktif": true
+        },
+        {
+          "id": "TG-004",
+          "ad": "The Verge - Health",
+          "url": "https://www.theverge.com/health",
+          "odak": "Tüketici sağlık teknolojisi, giyilebilir cihazlar, FDA onayları",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        },
+        {
+          "id": "TG-005",
+          "ad": "VentureBeat - AI in Healthcare",
+          "url": "https://venturebeat.com/category/ai/",
+          "odak": "Yapay zeka uygulamaları, sağlıkta makine öğrenimi, LLM'ler",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        }
+      ]
+    },
+    "kurumsal_ve_regulatorik": {
+      "açıklama": "Düzenleyici kurumlar, uluslararası örgütler ve standart belirleyiciler",
+      "kaynaklar": [
+        {
+          "id": "KR-001",
+          "ad": "WHO - Digital Health",
+          "url": "https://www.who.int/health-topics/digital-health",
+          "odak": "Küresel dijital sağlık stratejileri, kılavuzlar, pandemi teknolojisi",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Düzensiz (rapor bazlı)",
+          "aktif": true
+        },
+        {
+          "id": "KR-002",
+          "ad": "FDA - Digital Health Center of Excellence",
+          "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence",
+          "odak": "SaMD (Software as Medical Device), AI/ML onayları, regülasyon",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Düzensiz",
+          "aktif": true
+        },
+        {
+          "id": "KR-003",
+          "ad": "EMA (European Medicines Agency)",
+          "url": "https://www.ema.europa.eu/en",
+          "odak": "Avrupa ilaç onayları, dijital tıp düzenlemeleri",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Düzensiz",
+          "aktif": true
+        },
+        {
+          "id": "KR-004",
+          "ad": "T.C. Sağlık Bakanlığı - Sağlık Bilgi Sistemleri",
+          "url": "https://sbsgm.saglik.gov.tr/",
+          "odak": "E-Nabız, MEDULA, Türkiye sağlık dijitalizasyonu",
+          "dil": "Türkçe",
+          "güncelleme_sıklığı": "Düzensiz",
+          "aktif": true
+        }
+      ]
+    },
+    "biyoteknoloji_ve_ilac": {
+      "açıklama": "Biyoteknoloji, ilaç geliştirme ve genomik odaklı kaynaklar",
+      "kaynaklar": [
+        {
+          "id": "BI-001",
+          "ad": "Endpoints News",
+          "url": "https://endpts.com/",
+          "odak": "Biyofarma Ar-Ge, klinik deneyler, ilaç onayları",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        },
+        {
+          "id": "BI-002",
+          "ad": "Genetic Engineering & Biotechnology News (GEN)",
+          "url": "https://www.genengnews.com/",
+          "odak": "Gen terapisi, CRISPR, sentetik biyoloji, biyoüretim",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        },
+        {
+          "id": "BI-003",
+          "ad": "FierceBiotech",
+          "url": "https://www.fiercebiotech.com/",
+          "odak": "Biyoteknoloji startupları, fonlamalar, Ar-Ge pipeline haberleri",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        },
+        {
+          "id": "BI-004",
+          "ad": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/",
+          "odak": "İlaç sektörü haberleri, M&A, regülatif gelişmeler",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        }
+      ]
+    },
+    "medikal_cihaz_ve_robotik": {
+      "açıklama": "Medikal cihazlar, robotik cerrahi ve 3D baskı teknolojileri",
+      "kaynaklar": [
+        {
+          "id": "MC-001",
+          "ad": "Medical Device Network",
+          "url": "https://www.medicaldevice-network.com/",
+          "odak": "Medikal cihaz haberleri, FDA/CE onayları, üretim teknolojileri",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        },
+        {
+          "id": "MC-002",
+          "ad": "MedTech Dive",
+          "url": "https://www.medtechdive.com/",
+          "odak": "MedTech sektör analizi, cihaz onayları, pazar trendleri",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Günlük",
+          "aktif": true
+        },
+        {
+          "id": "MC-003",
+          "ad": "Robotics Business Review",
+          "url": "https://www.roboticsbusinessreview.com/",
+          "odak": "Robotik cerrahi, otomasyon, medikal robotlar",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Haftalık",
+          "aktif": true
+        },
+        {
+          "id": "MC-004",
+          "ad": "3D Printing in Medicine (BMC)",
+          "url": "https://threedmedprint.biomedcentral.com/",
+          "odak": "3D biyoprinting, kişiselleştirilmiş implantlar, organ baskı",
+          "dil": "İngilizce",
+          "güncelleme_sıklığı": "Sürekli (açık erişim)",
+          "aktif": true
+        }
+      ]
+    },
+    "turkiye_odakli": {
+      "açıklama": "Türkiye'deki sağlık teknolojisi gelişmelerini takip eden kaynaklar",
+      "kaynaklar": [
+        {
+          "id": "TR-001",
+          "ad": "Webrazzi - Sağlık",
+          "url": "https://webrazzi.com/etiket/saglik-teknolojileri/",
+          "odak": "Türkiye sağlık startup ekosistemi, yatırımlar, ürün lansmanları",
+          "dil": "Türkçe",
+          "güncelleme_sıklığı": "Haftalık",
+          "aktif": true
+        },
+        {
+          "id": "TR-002",
+          "ad": "TÜSEB (Türkiye Sağlık Enstitüleri Başkanlığı)",
+          "url": "https://www.tuseb.gov.tr/",
+          "odak": "Ulusal sağlık Ar-Ge projeleri, klinik araştırmalar",
+          "dil": "Türkçe",
+          "güncelleme_sıklığı": "Düzensiz",
+          "aktif": true
+        }
+      ]
+    }
+  }
+}
